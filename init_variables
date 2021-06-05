@@ -1,0 +1,17 @@
+n_tel = 3
+n_cook = 2
+oven = 10
+n_deliverer = 7
+t_order_low = 60
+t_order_high = 300
+n_order_low = 1
+n_order_high = 5
+t_payment_low = 60
+t_payment_high = 120
+c_pizza = 10
+p_fail = 0.05
+t_prep = 60 
+t_bake = 600
+t_pack = 120
+del_low = 300
+del_high = 900
